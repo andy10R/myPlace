@@ -11,17 +11,11 @@
 		054418F12055EEE9008C821B /* calc in Resources */ = {isa = PBXBuildFile; fileRef = 054418EA2055EED5008C821B /* calc */; };
 		054418F62055EFEB008C821B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054418F52055EFEB008C821B /* main.swift */; };
 		E7451D75206D16F100DD978E /* calcBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D74206D16F100DD978E /* calcBrain.swift */; };
-		E7451D76206D16F100DD978E /* calcBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D74206D16F100DD978E /* calcBrain.swift */; };
 		E7451D78206D180900DD978E /* Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D77206D180900DD978E /* Operator.swift */; };
-		E7451D79206D180900DD978E /* Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D77206D180900DD978E /* Operator.swift */; };
 		E7451D7B206D197E00DD978E /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D7A206D197E00DD978E /* Error.swift */; };
-		E7451D7C206D197E00DD978E /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D7A206D197E00DD978E /* Error.swift */; };
 		E7451D7E206D19D700DD978E /* Expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D7D206D19D700DD978E /* Expression.swift */; };
-		E7451D7F206D19D700DD978E /* Expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D7D206D19D700DD978E /* Expression.swift */; };
 		E7451D81206D1A4400DD978E /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D80206D1A4400DD978E /* Stack.swift */; };
-		E7451D82206D1A4400DD978E /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7451D80206D1A4400DD978E /* Stack.swift */; };
 		E7451D84206E3A5F00DD978E /* CalcTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C4D95E1E76182500AB9F52 /* CalcTest.swift */; };
-		E7451D85206E3BCC00DD978E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054418F52055EFEB008C821B /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -237,12 +231,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7451D84206E3A5F00DD978E /* CalcTest.swift in Sources */,
-				E7451D85206E3BCC00DD978E /* main.swift in Sources */,
-				E7451D7C206D197E00DD978E /* Error.swift in Sources */,
-				E7451D79206D180900DD978E /* Operator.swift in Sources */,
-				E7451D76206D16F100DD978E /* calcBrain.swift in Sources */,
-				E7451D82206D1A4400DD978E /* Stack.swift in Sources */,
-				E7451D7F206D19D700DD978E /* Expression.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
